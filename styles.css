@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Dosis:wght@500&display=swap');
+:root{
+    --primary-color:#ef4444;
+    --off-white: #94a3b8;
+}
+
+
+body{
+    font-family: 'Dosis', sans-serif;
+    margin: 0%;
+}
+h1{
+    text-align: center;
+}
+
+h2{
+    color:rgb(27, 8, 98);
+}
+body{
+    background-color: rgb(148, 110, 223);
+}
+#change{
+    color:brown;
+}
+.num{
+    font-size:large;
+    font-style:italic;
+    padding-left: 16rem;
+    padding-right: 3rem;
+}
+.links{
+    color:var(--primary-color);
+    background-color: black;
+    font-size:larger;
+    font-style: italic;
+    border-radius:0.3rem;
+    margin-right:1rem;
+}
+.seclinks{
+    background-color:none;
+    border:3px solid purple;
+    border-radius:0.3rem;
+    font-size: larger;
+    font-style: italic;
+}
+.inline-items{
+    display:inline;
+    padding-inline: 1rem 1rem;
+    font-size: larger;
+    font-style: italic;
+    font-weight: bolder;
+    font-stretch: expanded;
+}
+.navigation{
+    background-color:#10233e;
+    padding:1rem;
+    font-size: larger;
+    border-radius: 0.7rem;
+
+}
+.alignn{
+    text-align: right;
+    color:beige;
+   list-style: none;
+}
+ .ali{
+    color:beige;
+   list-style: none;
+   text-align:initial;
+ }
+ .fr{
+    font-weight: bold;
+    font-size:x-large;
+    font-style: oblique;
+    color: aliceblue;
+ }
+ .head .al{
+    display: block;
+    margin: auto;
+    max-width:350px;
+ }
+ .head .rim{
+    padding-bottom: 0.7rem;
+    padding-top: 2rem;
+ }
+ .head .x{
+    color: var(--primary-color);
+ }
+ .head .y{
+    text-align: center;
+    font-size:x-large;
+ }
+ .secc{
+    background-color: var(--off-white);
+    padding-top: 0.2rem;
+    border-bottom-left-radius: 1rem;
+ }
+ .container{
+    margin: auto;
+    padding-left: 17rem;
+    padding-right: 18rem;
+ }
+ .foot{
+    text-align: center;
+    background-color: #10233e;
+    color:antiquewhite;
+    padding-bottom: 3rem;
+        padding-top: 0.3rem;
+ }
+    .foot .u{
+        list-style: none;
+        color:#94a3b8;
+        font-size: x-large;
+        display: inline;
+    }
+.p{
+    display: inline;
+    
+}
